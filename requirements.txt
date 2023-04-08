@@ -1,2 +1,2 @@
-pywin32==305
+pywin32==306
 streamlit==1.20.0
